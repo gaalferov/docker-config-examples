@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": ">= 7.1",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
